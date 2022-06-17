@@ -37,6 +37,7 @@ npm install -g @vue/cli
 Run 
 
 npm install
+npm install autoprefixer@10.4.5 --save-exact
 
 ---------------------------------------------
 
